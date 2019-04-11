@@ -1,0 +1,70 @@
+#
+/*####################################################
+Juan Carlos Carrasco 
+Ejemplos de Lenguaje Latino
+*/###################################################
+
+
+
+#Este es un comentario en latino, se ponene con gato
+
+//variable de comentario estilo C++
+
+/*comentario
+miltilinea 
+en latino como en c/C++
+*/
+
+//imprimir
+#poner(variable  o expresion)
+
+//variables
+
+#poner('Muestra de variables en latino:\n') asi imprime el \n 
+
+#int
+poner("Muestra de variables en latino:\n") 
+#int
+a=123
+poner('entero')
+poner(a)
+#string
+l= "cierto"
+poner('string')
+poner(l)
+#float
+b= 12.345
+poner('float')
+poner(b)
+#const
+PI=3.1416
+poner('constante PI')
+poner(PI)
+#comillas
+s='"estoy haciendo comiilas"'
+poner(s)
+
+//operaciones 
+
+#suma
+w= 1+1
+poner("Suma")
+poner(w)
+#resta
+x=2-1
+poner("Resta")
+poner(x)
+#multiplicacion
+z=2*3
+poner("Multiplicacion")
+poner(z)
+#division
+m=23/3
+poner("Division")
+poner(m)
+#modulo
+re= 10%2
+poner("Modulo")
+poner(re)
+
+
