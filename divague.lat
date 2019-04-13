@@ -1,0 +1,30 @@
+#Divage
+
+//Holis
+
+a = 0.0
+b = 0.0
+c = 0.0
+poner("valor del lado a:")
+a = leer()
+poner("valor del lado b:")
+b = leer()
+//c = raiz_cuadrada(a*a + b*b)
+c = mate.raiz(a*a + b*b)
+poner("el valor de la hipotenusa es: " .. c)
+
+poner(".")
+poner(". .")
+poner(".  .")
+poner(".   .")
+poner(".    .")
+poner(".     . hipotenusa")
+poner(".      .")
+poner(".       .")
+poner(".        .")
+poner(".         .")
+poner("............")
+poner(" ")
+
+
+
